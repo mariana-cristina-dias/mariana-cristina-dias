@@ -1,41 +1,95 @@
 ## Olá, :earth_americas:! Meu nome é Mariana Cristina Dias dos Santos :dizzy: 
 <img align="right" width="200" src="https://media0.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=ecf05e47lvqdirrebclp6lrt1zs4s1io6gr1vdkupbvtch9r&rid=giphy.gif&ct=g"/>
 
-### Aqui eu compartilho alguns dos meus projetos pessoais e colaborativos, além dos desenvolvidos ao longo do bootcamp WebDev Full-Stack da Resilia Educação.
 
-- 💻 Sou Desenvolvedora Full-Stack e Bacharel em Direito
-- 🎓 Estudo Desenvolvimento Web e concluo o curso em jan/2022
-- 🌱 Estou aprendendo Node.JS e React 
-- 👯 Procuro projetos legais e interessantes para colaborar e aprender mais. Bora codar junto?
+## 🚀 Sobre mim
 
---- 
-### 📫 Você pode entrar em contato comigo através do meu:
- 
- <a href="https://www.linkedin.com/in/mariana-cristina-santos/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:marianacristinasantos05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href = "https://api.whatsapp.com/send/?phone=5515988079939&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
- 
+```javascript
+const mariana = {
+  pronouns: "ela/dela",
+  code: ["JavaScript", "HTML", "CSS", "C", "Node.js"],
+  technologies: {
+    frontEnd: ["HTML5", "CSS3", "JavaScript", "React"],
+    backEnd: ["Node.js", "Express", "RESTful APIs"],
+    databases: ["MySQL", "MongoDB"],
+    tools: ["Git", "GitHub", "VS Code", "Postman", "Linux"]
+  },
+  currentFocus: "Buscando minha primeira oportunidade como desenvolvedora",
+  education: "Bacharelado em Tecnologia da Informação - UNIVESP",
+  challenge: "Transição de carreira do Direito para a Tecnologia",
+  funFact: "Conquistei o 2º lugar no Hackathon #ProviHackPraTodos!"
+};
+```
 
-### Estou estudando 
+## 🎯 Jornada de Transição
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB/">
+🎓 **Formação Jurídica** → 💻 **Paixão por Tecnologia**
 
-#### IDE 
+Depois de anos na área jurídica, descobri minha verdadeira paixão: **programação**! Atualmente estudo Tecnologia da Informação na UNIVESP e me dedico intensivamente ao desenvolvimento web.
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
+### 🌟 Marcos importantes:
+- 🏆 **2º lugar no Hackathon #ProviHackPraTodos** - Projeto TRANSmissão Tech
+- 🏊‍♀️ **Piscina da 42 São Paulo** - Experiência imersiva em programação
+- 🌍 **Inglês Avançado (C1)** - Acesso a documentação e conteúdo internacional
 
----
+## 💻 Tech Stack
 
-<div align="center">
- 
-  <a href="https://github.com/mariana-cristina-santos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariana-cristina-santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-cristina-santos&layout=compact&langs_count=7&theme=dracula"/>
-   
-</div>
 
- ---  
- <div align="center">
+### Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![](https://komarev.com/ghpvc/?username=mariana-cristina-santos&color=blue&style=flat)
- </div>
+### Back-End
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+## 🏆 Conquistas & Projetos
+
+### 🌈 TRANSmissão Tech
+**2º Lugar no Hackathon #ProviHackPraTodos (Dezembro 2021)**
+- Plataforma para conectar pessoas trans com mentores em tecnologia
+- Foco em diversidade, inclusão e apoio comunitário
+- Desenvolvimento colaborativo em equipe
+
+## 🎯 Objetivos 2025
+
+- [ ] Conseguir minha primeira oportunidade como **Desenvolvedora Júnior**
+- [ ] Contribuir para projetos open source
+- [ ] Aprofundar conhecimentos em **React** e **TypeScript**
+- [ ] Desenvolver projetos pessoais impactantes
+- [ ] Construir uma rede de contatos na comunidade tech
+
+## 🌱 Atualmente estudando
+
+```
+🔭 Focando em: Node.js e desenvolvimento de APIs
+🌱 Aprendendo: React avançado e TypeScript
+👯 Buscando: Colaborar em projetos open source
+💬 Pergunte sobre: JavaScript, transição de carreira, diversidade em tech
+⚡ Fun fact: Adoro resolver problemas complexos e criar soluções inclusivas!
+```
+
+## 📫 Vamos nos conectar!
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-cristina-dias/)
+
+
+  
+### 💭 *"A tecnologia tem o poder de transformar vidas. Estou aqui para fazer parte dessa transformação!"*
+
