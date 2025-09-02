@@ -1,5 +1,11 @@
-## Olá, :earth_americas:! Meu nome é Mariana Cristina Dias dos Santos :dizzy: 
-<img align="right" width="200" src="https://media0.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=ecf05e47lvqdirrebclp6lrt1zs4s1io6gr1vdkupbvtch9r&rid=giphy.gif&ct=g"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="450px" align="right">
+<div id="user-content-toc" align="left">
+  <ul style="list-style: none;">
+    <summary>
+      <h1>💜 Olá, meu nome é {Mariana}</h1>
+    </summary>
+  </ul>
+</div>
 
 
 ## 🚀 Sobre mim
